@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_grand_slam_labels">
+        <item>@string/settings_grand_slam_australian_open_label</item>
+        <item>@string/settings_grand_slam_french_open_label</item>
+        <item>@string/settings_grand_slam_us_open_label</item>
+        <item>@string/settings_grand_slam_wimbledon_label</item>
+    </string-array>
+
+    <string-array name="settings_grand_slam_values">
+        <item>@string/settings_grand_slam_australian_open_value</item>
+        <item>@string/settings_grand_slam_french_open_value</item>
+        <item>@string/settings_grand_slam_us_open_value</item>
+        <item>@string/settings_grand_slam_wimbledon_value</item>
+    </string-array>
+
+</resources>

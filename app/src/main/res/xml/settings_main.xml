@@ -1,0 +1,13 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <ListPreference
+        android:defaultValue="@string/settings_grand_slam_default"
+        android:entries="@array/settings_grand_slam_labels"
+        android:entryValues="@array/settings_grand_slam_values"
+        android:key="@string/settings_grand_slam_key"
+        android:title="@string/settings_grand_slam_label" />
+
+</PreferenceScreen>

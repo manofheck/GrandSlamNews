@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Grand Slam News</string>
+
+    <!-- Text to display in the list when there are no articles [CHAR LIMIT=NONE] -->
+    <string name="no_articles">No articles found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Grand Slam Settings</string>
+
+    <!-- Strings For Grand Slam Preference [CHAR LIMIT=30] -->
+    <string name="settings_grand_slam_label">Grand Slam</string>
+    <string name="settings_grand_slam_key" translatable="false">grand_slam</string>
+    <string name="settings_grand_slam_default" translatable="false">@string/settings_grand_slam_french_open_value</string>
+
+    <!-- Label for Grand Slam Australian Open option [CHAR LIMIT=20] -->
+    <string name="settings_grand_slam_australian_open_label">Australian Open</string>
+    <string name="settings_grand_slam_australian_open_value" translatable="false">"Australian Open"</string>
+
+    <!-- Label for Grand Slam French Open option [CHAR LIMIT=20] -->
+    <string name="settings_grand_slam_french_open_label">French Open</string>
+    <string name="settings_grand_slam_french_open_value" translatable="false">"French Open"</string>
+
+    <!-- Label for Grand Slam US Open option [CHAR LIMIT=20] -->
+    <string name="settings_grand_slam_us_open_label">US Open</string>
+    <string name="settings_grand_slam_us_open_value" translatable="false">"US Open"</string>
+
+    <!-- Label for Grand Slam Wimbledon option [CHAR LIMIT=20] -->
+    <string name="settings_grand_slam_wimbledon_label">Wimbledon</string>
+    <string name="settings_grand_slam_wimbledon_value" translatable="false">"Wimbledon"</string>
+
+</resources>
